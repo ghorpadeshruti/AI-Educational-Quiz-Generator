@@ -1,0 +1,6 @@
+{
+  "name": "QuizCraft AI - Educational Quiz Generator",
+  "description": "AI-powered educational quiz generator for students and teachers to create instant multiple-choice quizzes from study notes with automatic grading and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
